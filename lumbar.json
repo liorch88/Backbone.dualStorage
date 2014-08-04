@@ -1,0 +1,10 @@
+{
+    "name" : "Backbone.dualStorage",
+    "mixins" : {
+        "Backbone.dualStorage" : {
+            "scripts" : [
+               "backbone.dualstorage.js" 
+            ]
+        }
+    }    
+}
